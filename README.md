@@ -140,9 +140,7 @@ README.md              # Project documentation
 
 Created by **Nilesh Gosavi** – a project demonstrating **compiler design and GUI-based compilers in Python**.
 
-```
 
----
 
 
 
