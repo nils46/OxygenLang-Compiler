@@ -8,14 +8,14 @@ A programming language with a GUI-based compiler in Python. Supports variable as
 It supports variable assignments, loops, conditionals, and output display, demonstrating compiler concepts such as **lexical analysis, parsing, AST, and code execution**.
 
 ---
-
+````
 ## Features
 
-- **Variable assignment** using `let`  
+* **Variable assignment** using `let`  
   ```oxygen
   let x = 5
   let y = x + 10
-````
+
 
 * **Printing values** using `show`
 
@@ -134,6 +134,7 @@ README.md              # Project documentation
 * Add **file open/save functionality**.
 * Build a **JIT compiler version** of OxygenLang.
 
+---
 ---
 
 ## Author
